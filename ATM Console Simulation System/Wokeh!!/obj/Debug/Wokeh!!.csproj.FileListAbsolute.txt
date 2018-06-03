@@ -1,0 +1,41 @@
+c:\users\nio\documents\visual studio 2015\Projects\Wokeh!!\Wokeh!!\bin\Debug\Wokeh!!.exe.config
+c:\users\nio\documents\visual studio 2015\Projects\Wokeh!!\Wokeh!!\obj\Debug\Wokeh!!.csprojResolveAssemblyReference.cache
+c:\users\nio\documents\visual studio 2015\Projects\Wokeh!!\Wokeh!!\bin\Debug\Wokeh!!.exe
+c:\users\nio\documents\visual studio 2015\Projects\Wokeh!!\Wokeh!!\bin\Debug\Wokeh!!.pdb
+c:\users\nio\documents\visual studio 2015\Projects\Wokeh!!\Wokeh!!\obj\Debug\Wokeh!!.exe
+c:\users\nio\documents\visual studio 2015\Projects\Wokeh!!\Wokeh!!\obj\Debug\Wokeh!!.pdb
+C:\Users\ADI\source\repos\Wokeh!!\Wokeh!!\bin\Debug\Wokeh!!.exe.config
+C:\Users\ADI\source\repos\Wokeh!!\Wokeh!!\bin\Debug\Wokeh!!.exe
+C:\Users\ADI\source\repos\Wokeh!!\Wokeh!!\bin\Debug\Wokeh!!.pdb
+C:\Users\ADI\source\repos\Wokeh!!\Wokeh!!\obj\Debug\Wokeh!!.csprojResolveAssemblyReference.cache
+C:\Users\ADI\source\repos\Wokeh!!\Wokeh!!\obj\Debug\Wokeh!!.csproj.CoreCompileInputs.cache
+C:\Users\ADI\source\repos\Wokeh!!\Wokeh!!\obj\Debug\Wokeh!!.exe
+C:\Users\ADI\source\repos\Wokeh!!\Wokeh!!\obj\Debug\Wokeh!!.pdb
+C:\Users\ADI\source\repos\Wokeh!! - fix\Wokeh!!\bin\Debug\Wokeh!!.exe.config
+C:\Users\ADI\source\repos\Wokeh!! - fix\Wokeh!!\bin\Debug\Wokeh!!.exe
+C:\Users\ADI\source\repos\Wokeh!! - fix\Wokeh!!\bin\Debug\Wokeh!!.pdb
+C:\Users\ADI\source\repos\Wokeh!! - fix\Wokeh!!\obj\Debug\Wokeh!!.csprojResolveAssemblyReference.cache
+C:\Users\ADI\source\repos\Wokeh!! - fix\Wokeh!!\obj\Debug\Wokeh!!.csproj.CoreCompileInputs.cache
+C:\Users\ADI\source\repos\Wokeh!! - fix\Wokeh!!\obj\Debug\Wokeh!!.exe
+C:\Users\ADI\source\repos\Wokeh!! - fix\Wokeh!!\obj\Debug\Wokeh!!.pdb
+C:\Users\ADI\source\repos\Wokeh!! - fix\Wokeh!!\bin\Debug\Alba.CsConsoleFormat.dll
+C:\Users\ADI\source\repos\Wokeh!! - fix\Wokeh!!\bin\Debug\ConsoleTables.dll
+H:\Wokeh!! - fix\Wokeh!!\bin\Debug\Wokeh!!.exe.config
+H:\Wokeh!! - fix\Wokeh!!\obj\Debug\Wokeh!!.exe
+H:\Wokeh!! - fix\Wokeh!!\obj\Debug\Wokeh!!.pdb
+D:\Wokeh!! - fix\Wokeh!!\bin\Debug\Wokeh!!.exe.config
+D:\Wokeh!! - fix\Wokeh!!\obj\Debug\Wokeh!!.exe
+D:\Wokeh!! - fix\Wokeh!!\obj\Debug\Wokeh!!.pdb
+D:\Wokeh!! - fix\Wokeh!!\bin\Debug\Wokeh!!.exe
+D:\Wokeh!! - fix\Wokeh!!\bin\Debug\Wokeh!!.pdb
+D:\Wokeh!! - fix\Wokeh!!\bin\Debug\Alba.CsConsoleFormat.dll
+D:\Wokeh!! - fix\Wokeh!!\bin\Debug\ConsoleTables.dll
+D:\Wokeh!! - fix\Wokeh!!\obj\Debug\Wokeh!!.csprojResolveAssemblyReference.cache
+D:\Wokeh!! - fix banget\Wokeh!!\bin\Debug\Wokeh!!.exe.config
+D:\Wokeh!! - fix banget\Wokeh!!\obj\Debug\Wokeh!!.exe
+D:\Wokeh!! - fix banget\Wokeh!!\obj\Debug\Wokeh!!.pdb
+D:\Wokeh!! - fix banget\Wokeh!!\bin\Debug\Wokeh!!.exe
+D:\Wokeh!! - fix banget\Wokeh!!\bin\Debug\Wokeh!!.pdb
+D:\Wokeh!! - fix banget\Wokeh!!\bin\Debug\Alba.CsConsoleFormat.dll
+D:\Wokeh!! - fix banget\Wokeh!!\bin\Debug\ConsoleTables.dll
+D:\Wokeh!! - fix banget\Wokeh!!\obj\Debug\Wokeh!!.csprojResolveAssemblyReference.cache
